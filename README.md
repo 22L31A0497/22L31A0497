@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @22L31A0497
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-22L31A0497/22L31A0497 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m **Jaganmohan Rao Kuna**  
+- 👀 I’m passionate about building scalable and efficient web applications using the **MERN stack**.  
+- 🌱 Currently sharpening my skills in **React, Redux, Node.js**, and exploring the latest trends in full-stack development.  
+- 💞️ I’m looking to collaborate on exciting projects where I can contribute as a **full-stack developer** and learn from others in the tech community.  
+- 📫 Reach me at **[your email or LinkedIn profile]**.  
+- 😄 Pronouns: **He/Him**.  
+- ⚡ Fun fact: **I love solving complex coding challenges and turning coffee into code!**  
