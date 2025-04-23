@@ -1,63 +1,64 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There!👋;I'm+Jaganmohan+Rao+Kuna⚡;Welcome+to+my+GitHub!&center=true&size=30">
+ <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!👋;This+is+Jaganmohan+Rao+Kuna⚡;Nice+to+meet+you!&center=true&size=20">
   </a>
 </h1>
 
-<h3 align="center">🚀 Full Stack Developer | MERN Enthusiast | Problem Solver</h3>
+<h3 align="center">A passionate web developer.</h3>
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/wwTfhtzkfAYAAAAC/onegai-twins-please-twins.gif">
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/wwTfhtzkfAYAAAAC/onegai-twins-please-twins.gif" width="400" alt="coding" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=22L31A0497&label=Profile%20views&color=0e75b6&style=flat" alt="22L31A0497" /> </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaganmohankuna&label=Profile%20views&color=0e75b6&style=flat" alt="jaganmohankuna" />
-</p>
+- 🌱 I'm currently juggling projects with FullStack.
+- 🤝 Looking to contribute to Open-source Organizations.
+- 👨‍💻 Interested in FullStack, DSA.
+- 💬 Ask me about DEV & DSA.
+- 📫 How to reach me: **jaganmohanraokuna2004@gmail.com**
 
----
-
-### 💡 About Me:
-- 🌱 I’m currently building an LMS Portal (like Udemy) with MERN Stack.
-- 👨‍💻 Interested in Full Stack Development & DSA.
-- 🤝 Open to Open Source Contributions & Team Projects.
-- 💬 Ask me about **React, Node.js, MongoDB, and APIs**.
-- 📫 Reach me at **jaganmohanrao.kuna2004@gmail.com**
-
----
-
-### 📱 Connect with Me:
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" height="30" width="40" alt="Twitter"/></a>
-  <a href="https://linkedin.com/in/jaganmohanrao" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" height="30" width="40" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" height="30" width="40" alt="Instagram"/></a>
-  <a href="https://www.codechef.com/users/jaganmohan" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" height="30" width="40" alt="CodeChef"/></a>
-  <a href="https://leetcode.com/jaganmohan" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" height="30" width="40" alt="LeetCode"/></a>
-  <a href="https://auth.geeksforgeeks.org/user/jaganmohanrao.kuna2004" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/geeksforgeeks.svg" height="30" width="40" alt="GFG"/></a>
+<a href="https://twitter.com/22L31A0497" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="22L31A0497" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jaganmohan-rao-kuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaganmohan-rao-kuna" height="30" width="40" /></a>
+<a href="https://fb.com/jaganmohan.kuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jaganmohan.kuna" height="30" width="40" /></a>
+<a href="https://instagram.com/jaganmohan_kuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaganmohan_kuna" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/jaganmohan_kuna" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jaganmohan_kuna" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/jaganmohan_kuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaganmohan_kuna" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/jaganmohan_kuna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jaganmohan_kuna" height="30" width="40" /></a>
 </p>
 
----
-
-### 🛠️ Languages & Tools:
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS" />
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" alt="Postman" />
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 </p>
 
----
+<h3 align="left">Skills & Expertise:</h3>
+<ul align="left">
+  <li>Languages: C, C++, JavaScript, Python</li>
+  <li>Technologies/Frameworks: ReactJs, ExpressJs, NodeJs, MongoDB, TailwindCSS, Redux, Redux-toolkit, Bootstrap, HTML+CSS</li>
+  <li>Tools: GIT, Github, VS-Code, Postman, MongoDB-Compass, Vercel, Render</li>
+  <li>Other Skills: Data Structures, Algorithms, Problem Solving</li>
+</ul>
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaganmohankuna&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaganmohankuna&theme=radical" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaganmohankuna&layout=compact&theme=radical" alt="Top Languages" />
+<p align="left">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=22L31A0497&show_icons=true&locale=en&layout=compact&langs_count=10&theme=tokyonight" alt="22L31A0497" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=22L31A0497&show_icons=true&locale=en&theme=tokyonight" alt="22L31A0497" />
 </p>
+
+<!-- Remove GitHub Streak section -->
