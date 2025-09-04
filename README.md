@@ -38,8 +38,8 @@ This is a Node.js-based HTTP URL Shortener Microservice that provides URL shorte
 ```json
 {
   "url": "https://very-long-url.com/...",
-  "validity": 30,               // optional (minutes), defaults to 30
-  "shortcode": "customCode1"   // optional, must be unique if provided
+  "validity": 30,              
+  "shortcode": "customCode1"   
 }
 ```
 
