@@ -1,0 +1,23 @@
+{
+  "name": "my-node-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node BackendTestSubmission/server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "geoip-lite": "^1.4.10",
+    "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
